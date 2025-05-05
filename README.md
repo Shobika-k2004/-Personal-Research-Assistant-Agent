@@ -23,5 +23,9 @@ A smart research assistant app built with **Streamlit**, **LangChain**, and **Gr
 
 streamlit run task.py
 
+Refer the vedio
+
+https://vimeo.com/1081426388?share=copy
+
 
 
