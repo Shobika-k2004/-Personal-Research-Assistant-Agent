@@ -1,4 +1,4 @@
-# -Personal-Research-Assistant-Agent
+# Personal-Research-Assistant-Agent
 
 A smart research assistant app built with **Streamlit**, **LangChain**, and **Groq's LLaMA 3 (8B)**. This app lets users search academic papers using the Semantic Scholar API and generates a summarized overview using LLM-powered NLP.
 
