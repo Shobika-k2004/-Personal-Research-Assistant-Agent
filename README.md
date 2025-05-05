@@ -2,6 +2,12 @@
 
 A smart research assistant app built with **Streamlit**, **LangChain**, and **Groq's LLaMA 3 (8B)**. This app lets users search academic papers using the Semantic Scholar API and generates a summarized overview using LLM-powered NLP.
 
+
+## 📽️ Demo Video
+
+▶️ [Watch the Demo](https://vimeo.com/1081426388?share=copy)  
+
+
 ## Features
 
 - Search for academic papers by topic
@@ -23,9 +29,6 @@ A smart research assistant app built with **Streamlit**, **LangChain**, and **Gr
 
 streamlit run task.py
 
-Refer the vedio
-
-https://vimeo.com/1081426388?share=copy
 
 
 
