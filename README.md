@@ -24,6 +24,14 @@ A smart research assistant app built with **Streamlit**, **LangChain**, and **Gr
 - **Backend:** LangChain (LLMChain, tools)
 - **API:** Semantic Scholar API
 
+## Output
+![WhatsApp Image 2025-05-05 at 16 01 30_5f9e51af](https://github.com/user-attachments/assets/8f1c4689-1e5b-4beb-be76-fd2d43e5b1a9)
+![WhatsApp Image 2025-05-05 at 16 01 28_41c94423](https://github.com/user-attachments/assets/26e1e472-165e-4d01-be08-d26223dbcbe8)
+![WhatsApp Image 2025-05-05 at 16 01 29_07c96ae7](https://github.com/user-attachments/assets/c97f11a6-df3c-43a3-99f6-1faa55e21ef5)
+![WhatsApp Image 2025-05-05 at 16 01 29_883d0e34](https://github.com/user-attachments/assets/0c39c10b-ccb7-4f2d-b580-fffa35031683)
+
+
+
 
 ##  How to Run
 
